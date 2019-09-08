@@ -1,14 +1,18 @@
 # paper-optics
-## e-books
+
+	## computational imaging
+		### lensless imaging
+
+	## e-books
 
 
-## fourier ptychographic microscopy
+	## fourier ptychographic microscopy
 
 
 
-## structured illumination
+	## structured illumination
 
 
 
-## temporal focusing microscopy
+	## temporal focusing microscopy
 
